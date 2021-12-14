@@ -1,0 +1,5 @@
+C:/Users/hloi/CLionProjects/CSC109CH10INHERIT/cmake-build-debug/CMakeFiles/unittest.dir
+C:/Users/hloi/CLionProjects/CSC109CH10INHERIT/cmake-build-debug/CMakeFiles/CSC109CH10INHERIT.dir
+C:/Users/hloi/CLionProjects/CSC109CH10INHERIT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/hloi/CLionProjects/CSC109CH10INHERIT/cmake-build-debug/CMakeFiles/test.dir
+C:/Users/hloi/CLionProjects/CSC109CH10INHERIT/cmake-build-debug/CMakeFiles/edit_cache.dir
